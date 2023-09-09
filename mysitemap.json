@@ -119,7 +119,7 @@
     //"beaconLocation": "../includes/beacon.php",
     //
     "trackerImg1": "https://jt-lawnservice.com/images/JT-lawnservice-800.png", // only $this. The trackerImg must have a slash before or make them a full url.
-    //"trackerImg2": "/images/146624.png", // only $this
+    "trackerImgPhone": "https://jt-lawnservice.com/images/JT-lawnservice-290.png", // BLP 2023-08-07 - expermental
     "EMAILADDRESS": "bartonphillips@gmail.com", // or $S->emailAddress
     "EMAILRETURN": "bartonphillips@gmail.com", // only $this
     "EMAILFROM": "webmaster@bartonphillips.com" // only $this
