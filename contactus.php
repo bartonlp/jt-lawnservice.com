@@ -2,7 +2,7 @@
 // Under Construction
 $_site = require_once(getenv("SITELOADNAME"));
 $S = new SiteClass($_site);
-$S->title = "Contact Us";
+$S->title = "Contact Me";
 $S->banner = "<h1>$S->title</h1>";
 $S->css = <<<EOF
 #logo { width: 800px; height: 392px; }
@@ -57,6 +57,8 @@ $top
 <hr>
 <h2>My Address is:</h2>
 <address>
+J.T. Lawn Service<br>
+James Thompson<br>
 4902 Sandhurst Rd<br>
 Trentwoods, NC 28562
 </address>

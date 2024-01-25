@@ -31,10 +31,8 @@ EOF;
 echo <<<EOF
 $top
 <hr>
-<!--<h2 class="underconstruction">Under Construction</h2>
-<p>This site will be up soon. Until then you can contact JT (James Thompson) at (252) 876-3511.</p>-->
-
-<a href="contactus.php">Contact Us and Get a Quote</a><br>
+<h3>Hi, my name is James Thompson and I am the owner of J.T. Lawn Service.</h3>
+<a href="contactus.php">Contact me and Get a Quote</a><br>
 <a href="testimonials.php">Testimonials</a><br><br>
 
 <div id="container">

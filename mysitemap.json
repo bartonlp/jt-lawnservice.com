@@ -38,7 +38,7 @@
       "database": "barton",
       // "port": "", // if we need to change the port from the default.
       // "socket": "", // as above.
-      "engine": "mysqli", // Currently the only engine.
+      "engine": "mysql", // Currently the only engine.
       "DUMMY": null // DUMMY at end with no comma    
     },
     /* NOTE the errorMode entries are all controlled by statics so they can be set or unset at any time.
